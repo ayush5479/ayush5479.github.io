@@ -5,8 +5,9 @@ Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmai
 ## Education
 
 ### DTU, Delhi
-- **Mechanical Engineering**
-- Aug 2019 - June 2023, Delhi
+**Mechanical Engineering with minors in design and automation**
+
+  Aug 2019 - June 2023, Delhi
 - Mechanical Head at Team Inferno DTU
 - Expecting a First class with distinction degree
 - Secretary General at ASME DTU
@@ -65,8 +66,9 @@ Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmai
 ## Experience
 
 ### Production and Supply chain
-- MATS, MAHLE
-- Jan 2023 – May 2023, Greater Noida, UP
+MATS, MAHLE
+
+Jan 2023 – May 2023, Greater Noida, UP
 - Redesigned the layout of each production line as per MPS (Mahle production system) standards to achieve max efficiency by the worker
 - Designed the Fixtures(gauge) for EGR Cooling module
 - Worked on product and line meter (delivery request, FG stock ,synchronization ratio )
@@ -79,19 +81,22 @@ Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmai
 
 
 ### Design and simulation Intern
-- DRDO, ARDE
-- June 2022 – July 2022, Pune, Maharashtra
+DRDO, ARDE
+
+June 2022 – July 2022, Pune, Maharashtra
 - Worked on the dynamic simulation of (ASSAULT RIFLE) for case ejection and recoiling using Adams software.
 
 ### Drone designing and development intern
-- IHFC (IIT DELHI), COAL INDIA
-- March 2022 – Sept 2022, Delhi
+IHFC (IIT DELHI), COAL INDIA
+
+March 2022 – Sept 2022, Delhi
 - Designed the quad copter from the ground up and improved it by doing dynamic and structural simulations, as well as using MATLAB to estimate certain constraints using supplied data.
 - Employed reverse engineering to manufacture the propeller and an FDM printer to manufacture custom-made parts.
 
 ### Design and Manufacturing intern
-- ELECTORQ (BAAZ), IIT DELHI BASED STARTUP
-- Nov 2021 – Jan 2022, Saket, Delhi
+ELECTORQ (BAAZ), IIT DELHI BASED STARTUP
+
+Nov 2021 – Jan 2022, Saket, Delhi
 - Designed and optimized the fixture using Solidworks of BAAZ Gen 4, resulting in decreased manufacturing costs for sub parts fixtures including fork assembly, chassis, handle, swing arm, dashboard, stand, etc.
 - Worked on swapping station, solved the heating issue of the battery using thin AL plates.
 - Solved the fire outbreak issue in emergency case from the battery by using fiberglass-reinforced plastic (FRP) small strips.
@@ -99,8 +104,9 @@ Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmai
 ## Competitions
 
 ### UNIVERSITY ROVER CHALLENGE
-- URC (MARS ROVER PROTOTYPE BUILDING COMPETITION)
-- Sept 2021 – June 2022, UTAH, USA
+URC (MARS ROVER PROTOTYPE BUILDING COMPETITION)
+
+Sept 2021 – June 2022, UTAH, USA
 - Involved in designing a 6-dof robotic arm manipulator using inverse kinematics concepts and given constraints.
 - Had a major role in the decrement of the overall weight of the robotic arm by 20%. 
 - Using Ansys, I analysed and assessed the safety factor of subassemblies such as the chassis, gearbox, and robotic arm.
@@ -110,14 +116,16 @@ Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmai
 ## Recent Projects
 
 ### Designing of Amphibious Drone
-- PROJECT UDAAN, IIT MADRAS
-- Dec 2021 – Jan 2022, Delhi
+PROJECT UDAAN, IIT MADRAS
+
+Dec 2021 – Jan 2022, Delhi
 - Designed an Aerial-Underwater surveillance Exploration fixed-wing UAV having a bio-mimicry element of Turtle, Eagle loaded with morphed wing.
 - Had synchronized Various sensors like Lidar for 3D mapping, sonar, Radar, GNSS, stereo cameras, IMU, Picasso and various other sensors for performing search and rescue missions having a carrying load capacity of up to 4kgs.
 
 ### Unmanned Aerial Vehicle for Mars
-- AVYAKT, UAV WITH VTOL
-- Mar 2021 – May 2021, Delhi, India
+AVYAKT, UAV WITH VTOL
+
+Mar 2021 – May 2021, Delhi, India
 - Engineered hybrid fixed-wing UAV with VTOL mechanism for the Martian atmosphere capable of lifting and dropping payloads autonomously using a docking mechanism.
 - Limited the weight of UAV to 10kgs (Range Enhances)
 - Worked upon enhancing the aerodynamics of the morphed wing, vertical as well as horizontal tail using xflr5 software and achieved the speed mark of approx. 17 m/s under normal climatic conditions. 
