@@ -56,7 +56,7 @@ Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmai
 <img alt="AutoCAD" src="https://img.shields.io/badge/autocad%20-%23563D7C.svg?&style=for-the-badge&logo=autocad&logoColor=white" style="margin:2px;"/>
 <img alt="Microsoft Office" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft Office&color=222222&logo=Microsoft Office&logoColor=06B6D4&label=" style="margin:2px;"/>
 <img alt="Adams view" src="https://img.shields.io/badge/Adams%20view-%23F05033.svg?&style=for-the-badge&logo=Adams%20view&logoColor=white" style="margin:2px;"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
+<img alt="SOLIDWORKS" src="https://img.shields.io/badge/SOLIDWORKS%20-%23121011.svg?&style=for-the-badge&logo=SOLIDWORKS&logoColor=white" style="margin:2px;"/>
 <img alt="ANSYS" src ="https://img.shields.io/badge/ANSYS-%234ea94b.svg?&style=for-the-badge&logo=ANSYS&logoColor=white" style="margin:2px;"/>
 
 
