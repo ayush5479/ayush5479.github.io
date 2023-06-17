@@ -5,7 +5,7 @@ Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmai
 ## Education
 
 ### DTU, Delhi
-**Mechanical Engineering with minors in design and automation**
+**Mechanical Engineering with Minor in Design and Automation**
 
   Aug 2019 - June 2023, Delhi
 - Mechanical Head at Team Inferno DTU
