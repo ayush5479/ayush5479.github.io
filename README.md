@@ -34,23 +34,15 @@ Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmai
 
 ## Skills
 
-- Programming:
-  - Python
-  - MATLAB
-  - C/C++
-  - HTML/CSS
+- Programming Softwares:
+
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" style="margin:2px;"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="margin:2px;"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
 <img alt="MATLAB" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" style="margin:2px;"/>
+<img alt="GITHUB" src="https://img.shields.io/badge/GITHUB%20-%23121011.svg?&style=for-the-badge&logo=GITHUB&logoColor=white" style="margin:2px;"/>
 
-- Softwares:
-  - Solidworks
-  - Fusion 360
-  - AutoCAD
-  - Microsoft Office
-  - ANSYS (Fluent, CFD)
-  - Adams view
+- Designing and simulation Softwares:
 
 <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion 360%20-%23323330.svg?&style=for-the-badge&logo=Fusion 360&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="AutoCAD" src="https://img.shields.io/badge/autocad%20-%23563D7C.svg?&style=for-the-badge&logo=autocad&logoColor=white" style="margin:2px;"/>
