@@ -1,7 +1,3 @@
-# Aayush Kumar
-
-Phone: 8529733062 | Email: [ayushkumar7948@gmail.com](mailto:ayushkumar7948@gmail.com)
-
 ## Education
 
 ### DTU, Delhi
